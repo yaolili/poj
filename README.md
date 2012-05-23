@@ -1,4 +1,4 @@
-poj
+My POJ Project
 ===
 
-my poj projects
+All the codes in my poj projects.
